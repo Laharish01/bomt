@@ -1,0 +1,17 @@
+{
+  "title": "I don't know what my little sister's friend is thinking",
+  "description": "<manga description>",
+  "artist": "@rayrei1414",
+  "author": "@rayrei1414",
+  "cover": "https://pbs.twimg.com/media/EysEVIMVoAAMYhO?format=jpg&name=4096x4096",
+  "chapters": {
+    "13": {
+      "title": "Chapter 13",
+      "volume": "N/A",
+      "groups": {
+        "Baby One More Time": "/proxy/api/imgur/chapter/CZZT89A/"
+      },
+      "last_updated": "1620383454"
+    }
+  }
+}
